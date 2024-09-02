@@ -1,12 +1,10 @@
 # Flutter and Dart Project Setup and GitHub Push Guide
 
-
 **Author:** Md. Rahul Reza  
 **Designation:** Software Engineer  
 **Website:** [rahulreza.com](https://rahulreza.com)
 
 This comprehensive guide provides step-by-step instructions for setting up a new Dart or Flutter project, initializing a Git repository, pushing it to GitHub, opening the project in various IDEs, updating SDK/packages, and preparing your app for release on the Google Play Store.
-
 
 ## Part 1: Dart Project Setup
 
@@ -228,3 +226,5 @@ This comprehensive guide provides step-by-step instructions for setting up a new
 ## Conclusion
 
 By following these steps, you’ve successfully set up a Dart or Flutter project, initialized a Git repository, pushed it to GitHub, opened it in your preferred IDE, updated the SDK and packages, prepared the app for release, and uploaded it to the Google Play Store.
+
+For further queries, please contact **Md. Rahul Reza** at [rahulreza.com](https://rahulreza.com).
