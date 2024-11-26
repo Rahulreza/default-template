@@ -28,6 +28,20 @@ This comprehensive guide provides step-by-step instructions for setting up a new
 
 ### Step 2: Initialize a Git Repository
 
+…or create a new repository on the command line
+echo "# initialsetup" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/username/project.git
+git push -u origin main
+
+…or push an existing repository from the command line
+git remote add origin https://github.com/username/project.git
+git branch -M main
+git push -u origin main
+
 1. **Initialize Git:**
    - In the root directory of your project, initialize a Git repository:
      ```bash
